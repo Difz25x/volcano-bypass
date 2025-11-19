@@ -2,7 +2,7 @@
     'use strict';
 
     const host = location.hostname;
-    const defaultTime = 8;
+    const defaultTime = 30;
     const normalTime = 60;
     const ver = "1.0.6.7";
 
